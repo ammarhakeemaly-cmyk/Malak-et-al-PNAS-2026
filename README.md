@@ -1,5 +1,7 @@
 Analysis scripts to reproduce figure 5 in "Calcium Permeability enhancing mutations in GlurIIC suppress the sustained presynaptic homeostatic plasticity triggered by GlurIIA" (PNAS 2026).
 
+Raw transcriptomic data available on NCBI GEO [Accession: XXXXX]
+
 
 ## Calcium Permeability enhancing mutations in GlurIIC suppress the sustained presynaptic homeostatic plasticity triggered by GlurIIA
 
