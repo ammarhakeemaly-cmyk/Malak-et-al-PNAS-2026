@@ -1,24 +1,22 @@
 Analysis scripts to reproduce figure 5 in "Calcium Permeability enhancing mutations in GlurIIC suppress the sustained presynaptic homeostatic plasticity triggered by GlurIIA" (PNAS 2026).
 
 
-Calcium Permeability enhancing mutations in GlurIIC suppress the sustained presynaptic homeostatic plasticity triggered by GlurIIA
+## Calcium Permeability enhancing mutations in GlurIIC suppress the sustained presynaptic homeostatic plasticity triggered by GlurIIA
 
-Olfat A. Malak 1, ^, Lindsay Gray 1,#, ^, Ammar Aly 1,2 , Robin W. Ball 3,4 , Jessica Gustin 4 , Myriam
-Moujahidine 1,3 , Guadalupe Carrasco 1 , Andrew Rosko 1 , Ehud Isacoff 4 and A. Pejmun
+Olfat A. Malak<sup>1,^</sup>, Lindsay Gray<sup>1,#,^</sup>, Ammar Aly<sup>1,2</sup>, Robin W. Ball<sup>3,4</sup>, Jessica Gustin<sup>4</sup>, Myriam Moujahidine<sup>1,3</sup>, Guadalupe Carrasco<sup>1</sup>, Andrew Rosko<sup>1</sup>, Ehud Isacoff<sup>4</sup> and A. Pejmun Haghighi<sup>1,2,3,*</sup>
 
-Haghighi 1,2,3,*
+Affiliations
+Buck Institute for Research on Aging, Novato, CA 94945
 
-1 Buck Institute for Research on Aging, Novato, CA 94945
-# Inscopix Inc, Mountain View, CA 94043
+Inscopix Inc, Mountain View, CA 94043
+Leonard Davis School of Gerontology, University of Southern California, Los Angeles, CA 90089
 
-2 Leonard Davis School of Gerontology, University of Southern California, Los Angeles, CA
+Leonard Department of Physiology, McGill University, Montreal, Canada, QC H3G1Y6
 
-90089
+Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720
 
-3 Leonard Department of Physiology, McGill University, Montreal, Canada, QC H3G1Y6
-4 Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720
+<sup>^</sup> These authors contributed equally to this work
 
-^ These authors contributed equally to this work
-* Corresponding Author (phaghighi@buckinstitute.org)
+<sup>*</sup> Corresponding Author: phaghighi@buckinstitute.org
 
-Lead Author: Pejmun Haghighi phaghighi@buckinstitute.org
+Lead Author: Pejmun Haghighi — phaghighi@buckinstitute.org
